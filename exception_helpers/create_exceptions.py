@@ -1,10 +1,9 @@
 """
     Purpose:
-        Exception Helpers. This file shows exception types in Python
-        and function calls for generating specific exceptions. This
-        can be useful for unittesting, debugging, and other tasks
-        that might call for purposefully breaking parts of your
-        code.
+        Exception Helpers. This file shows exception types in Python and function
+        calls for generating specific exceptions. This can be useful for
+        unittesting, debugging, and other tasks that might call for purposefully
+        breaking parts of your code.
 """
 
 # Python Library Imports
@@ -13,6 +12,7 @@ import random
 
 # Local Library Imports
 from exception_helpers.unsupported_exception import UnsupportedException
+
 
 ###
 # Exception Generator
